@@ -10,6 +10,11 @@ _RULE_DEPS = [
         "dacca89f4bfadd5de3d7489b7c8a566eee0d3676333fbb50030263894c38c0dc",
     ),
     (
+        "pypi__pep517",
+        "https://files.pythonhosted.org/packages/3b/da/bfa8de153f54df0b04ca634a4489d28758ab56b394931588627fcb49f44b/pep517-0.11.0-py2.py3-none-any.whl",
+        "3fa6b85b9def7ba4de99fb7f96fe3f02e2d630df8aa2720a5cf3b183f087a738",
+    ),
+    (
         "pypi__pip",
         "https://files.pythonhosted.org/packages/fe/ef/60d7ba03b5c442309ef42e7d69959f73aacccd0d86008362a681c4698e83/pip-21.0.1-py3-none-any.whl",
         "37fd50e056e2aed635dec96594606f0286640489b0db0ce7607f7e51890372d5",
