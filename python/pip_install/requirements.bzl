@@ -62,6 +62,7 @@ def compile_pip_requirements(
         requirement("pip"),
         requirement("pip_tools"),
         requirement("setuptools"),
+        requirement("tomli"),
     ]
 
     attrs = {

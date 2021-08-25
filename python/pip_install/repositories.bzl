@@ -35,6 +35,11 @@ _RULE_DEPS = [
         "992728077ca19db6598072414fb83e0a284aca1253aaf2e24bb1e55ee6db1a30",
     ),
     (
+        "pypi__tomli",
+        "https://files.pythonhosted.org/packages/18/47/f7dab5b63b97efa7a715e389291d46246a5999c7b4705c2d147fc879e3b5/tomli-1.2.1-py3-none-any.whl",
+        "8dd0e9524d6f386271a36b41dbf6c57d8e32fd96fd22b6584679dc569d20899f",
+    ),
+    (
         "pypi__wheel",
         "https://files.pythonhosted.org/packages/65/63/39d04c74222770ed1589c0eaba06c05891801219272420b40311cd60c880/wheel-0.36.2-py2.py3-none-any.whl",
         "78b5b185f0e5763c26ca1e324373aadd49182ca90e825f7853f4b2509215dc0e",
