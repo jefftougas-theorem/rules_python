@@ -58,6 +58,7 @@ def compile_pip_requirements(
 
     deps = [
         requirement("click"),
+        requirement("pep517"),
         requirement("pip"),
         requirement("pip_tools"),
         requirement("setuptools"),
