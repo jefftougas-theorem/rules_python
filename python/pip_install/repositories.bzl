@@ -10,14 +10,19 @@ _RULE_DEPS = [
         "dacca89f4bfadd5de3d7489b7c8a566eee0d3676333fbb50030263894c38c0dc",
     ),
     (
+        "pypi__pep517",
+        "https://files.pythonhosted.org/packages/3b/da/bfa8de153f54df0b04ca634a4489d28758ab56b394931588627fcb49f44b/pep517-0.11.0-py2.py3-none-any.whl",
+        "3fa6b85b9def7ba4de99fb7f96fe3f02e2d630df8aa2720a5cf3b183f087a738",
+    ),
+    (
         "pypi__pip",
         "https://files.pythonhosted.org/packages/fe/ef/60d7ba03b5c442309ef42e7d69959f73aacccd0d86008362a681c4698e83/pip-21.0.1-py3-none-any.whl",
         "37fd50e056e2aed635dec96594606f0286640489b0db0ce7607f7e51890372d5",
     ),
     (
         "pypi__pip_tools",
-        "https://files.pythonhosted.org/packages/6d/16/75d65bdccd48bb59a08e2bf167b01d8532f65604270d0a292f0f16b7b022/pip_tools-5.5.0-py2.py3-none-any.whl",
-        "10841c1e56c234d610d0466447685b9ea4ee4a2c274f858c0ef3c33d9bd0d985",
+        "https://files.pythonhosted.org/packages/36/53/acebf41d8a105a44ccb71b8aeacd83eadedf29de22ebbd34c50f18857330/pip_tools-6.2.0-py3-none-any.whl",
+        "77727ef7457d1865e61fe34c2b1439f9b971b570cc232616a22ce82ab89d357d",
     ),
     (
         "pypi__pkginfo",
@@ -28,6 +33,11 @@ _RULE_DEPS = [
         "pypi__setuptools",
         "https://files.pythonhosted.org/packages/70/06/849cc805ac6332210083f2114a95b22ee252ce81ed4e1be4f1d2b87c9108/setuptools-54.0.0-py3-none-any.whl",
         "d85b57c41e88b69ab87065c964134ec85b7573cbab0fdaa7ef32330ed764600a",
+    ),
+    (
+        "pypi__tomli",
+        "https://files.pythonhosted.org/packages/18/47/f7dab5b63b97efa7a715e389291d46246a5999c7b4705c2d147fc879e3b5/tomli-1.2.1-py3-none-any.whl",
+        "8dd0e9524d6f386271a36b41dbf6c57d8e32fd96fd22b6584679dc569d20899f",
     ),
     (
         "pypi__wheel",
